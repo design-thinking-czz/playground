@@ -3,6 +3,7 @@ npm-debug.log
 .DS_Store
 .idea/
 .vscode/
+.history/
 **/.DS_Store
 .happypack/
 logs/*
